@@ -1,14 +1,14 @@
 {
   "name": "رجکسا",
-  "short_name": "مجموعه پترن های کاربردی Regex",
+  "short_name": "رجکسا",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "/regexha/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "/regexha/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -16,7 +16,7 @@
   "theme_color": "#ff5c5c",
   "background_color": "#ff5c5c",
   "display": "standalone",
-  "scope": "/regexha",
-  "start_url": "/regexha",
+  "scope": "/regexha/",
+  "start_url": "/regexha/",
   "prefer_related_applications": false
 }
