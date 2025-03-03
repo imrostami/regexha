@@ -11,7 +11,6 @@
                 </CardGrid>
                 <Empty v-else />
             </div>
-
         </main>
 
         <VFooter />

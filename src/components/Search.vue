@@ -1,7 +1,7 @@
 <template>
     <div class="lg:mx-auto lg:py-3 py-1 w-auto mx-4">
         <div class="max-w-md mx-auto relative">
-            <input type="text" :value="modelValue" @input="updateValue" placeholder="جستجوی الگو ... (نام , دسته بندی , توضیحات)"
+            <input type="text" :value="modelValue" @input="updateValue" placeholder="جستجوی الگو ..."
                 class="w-full px-4 py-2 pr-10 rounded-xl border border-gray-300 dark:border-neutral-600 bg-white dark:bg-neutral-700 text-neutral-800 dark:text-neutral-200 focus:outline-none focus:ring-2 focus:ring-rose-500 transition-all duration-300 text-sm"
                 dir="rtl" />
             <div class="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
