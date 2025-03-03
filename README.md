@@ -1,5 +1,15 @@
-# Vue 3 + Vite
+# رجکسا
+![رجکسا](https://github.com/user-attachments/assets/37aaff9d-b50b-489f-96dc-f97d5c20ecf2)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+**مجموعه پترن های کاربردی Regex**
+
+## معرفی
+
+رجکسا یک اپلیکیشن پیشرفته برای کار با پترن‌های Regex است که ابزارها و مثال‌های کاربردی را در اختیار شما قرار می‌دهد.
+
+## ویژگی‌ها
+
+- ارائه مجموعه پترن‌های کاربردی برای Regex
+- قابلیت نصب به صورت PWA
