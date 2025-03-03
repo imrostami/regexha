@@ -16,7 +16,7 @@
   "theme_color": "#ff5c5c",
   "background_color": "#ff5c5c",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/regexha",
+  "start_url": "/regexha",
   "prefer_related_applications": false
 }
