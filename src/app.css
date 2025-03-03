@@ -1,0 +1,41 @@
+@import 'tailwindcss';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@font-face {
+    font-family: 'Bardia';
+    src: url(assets/fonts/ZFBardia.otf);
+    
+}
+
+
+
+html,body{
+    direction: rtl;
+    font-family: 'Bardia';
+}
+html,body{
+    @apply dark:bg-neutral-900 bg-white
+}
+html,body,input{
+    @apply transition-colors duration-300
+}
+
+.Vue-Toastification__toast-body{
+    font-family: 'Bardia' !important;
+    margin-right: 10px;
+}
+
+.Vue-Toastification__container.top-center .Vue-Toastification__toast, .Vue-Toastification__container.bottom-center .Vue-Toastification__toast{
+    direction: rtl;
+}
+
+
+.stiky-top{
+    position: sticky;
+    top: 0;
+    bottom: 0;
+}
